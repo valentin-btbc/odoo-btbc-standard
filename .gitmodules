@@ -2,3 +2,8 @@
 	path = valentin-btbc/set_price_from_margin
 	url = git@github.com:valentin-btbc/set_price_from_margin.git
 	branch = master
+
+[submodule "valentin-btbc/crm_calculate_client_age"]
+	path = valentin-btbc/crm_calculate_client_age
+	url = git@github.com:valentin-btbc/crm_calculate_client_age.git
+	branch = master
