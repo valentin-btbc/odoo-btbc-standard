@@ -1,0 +1,4 @@
+[submodule "valentin-btbc/set_price_from_margin"]
+	path = valentin-btbc/set_price_from_margin
+	url = git@github.com:valentin-btbc/set_price_from_margin.git
+	branch = master
